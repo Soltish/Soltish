@@ -1,1 +1,1 @@
-Linux
+Arch Linux 3i
